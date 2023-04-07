@@ -1,0 +1,15 @@
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\bin\Debug\net6.0\task_25.exe
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\bin\Debug\net6.0\task_25.deps.json
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\bin\Debug\net6.0\task_25.runtimeconfig.json
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\bin\Debug\net6.0\task_25.dll
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\bin\Debug\net6.0\task_25.pdb
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.csproj.AssemblyReference.cache
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.AssemblyInfoInputs.cache
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.AssemblyInfo.cs
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.csproj.CoreCompileInputs.cache
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.dll
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\refint\task_25.dll
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.pdb
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\task_25.genruntimeconfig.cache
+D:\!Users\ligei\Desktop\C_Sharp_ДЗ_4\task_25\obj\Debug\net6.0\ref\task_25.dll
